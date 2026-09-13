@@ -55,10 +55,12 @@ Markdown Learning Repository  Welcome to the Markdown Learning Repository!   Thi
 
 # Strikethrough
 
-−−strikethrough −− or −strikethrough−
+~~strikethrough ~~ or ~strikethrough~
 
 # Subscript
 
 This is H<sub>2</sub>0
 
 # Superscript
+
+This is x<sup>2</sup>0
