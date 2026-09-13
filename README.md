@@ -63,4 +63,4 @@ This is H<sub>2</sub>0
 
 # Superscript
 
-This is x<sup>2</sup>0
+This is x<sup>2</sup> + y<sup>3</sup>
