@@ -42,13 +42,13 @@ Markdown Learning Repository  Welcome to the Markdown Learning Repository!   Thi
 # Bold
 **Bold text**
 
-#Italic
+# Italic
 *Italic text*
 
-# list
+# List
 - Item 1
 - Item 2
 
-# numbered list
+# Numbered list
 1. First
 2. Second
