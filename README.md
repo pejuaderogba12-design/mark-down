@@ -1,5 +1,5 @@
-# mark-down
-Markdown Learning Repository  Welcome to the Markdown Learning Repository!   This repo is created for coding students to practice and master the basics of Markdown.
+# Markdown
+Markdown Learning Repository:  Welcome to the Markdown Learning Repository!   This repo is created for coding students to practice and master the basics of Markdown.
 
 
 ---
@@ -64,3 +64,11 @@ This is H<sub>2</sub>0
 # Superscript
 
 This is x<sup>2</sup> + y<sup>3</sup>
+
+# All bold and italic
+
+***All these texts are important.***
+
+# Bold and nested italic
+
+**This text is _extremely_ important.**
