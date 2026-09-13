@@ -55,7 +55,7 @@ Markdown Learning Repository  Welcome to the Markdown Learning Repository!   Thi
 
 # Strikethrough
 
-~~strikethrough ~~ or ~strikethrough~
+~~strikethrough~~ or ~strikethrough~
 
 # Subscript
 
