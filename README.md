@@ -39,3 +39,16 @@ Markdown Learning Repository  Welcome to the Markdown Learning Repository!   Thi
    ###### Six-level heading
    
    
+# Bold
+**Bold text**
+
+#Italic
+*Italic text*
+
+# list
+- Item 1
+- Item 2
+
+# numbered list
+1. First
+2. Second
