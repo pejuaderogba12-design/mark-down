@@ -52,3 +52,13 @@ Markdown Learning Repository  Welcome to the Markdown Learning Repository!   Thi
 # Numbered list
 1. First
 2. Second
+
+# Strikethrough
+
+--strikethrough -- or -strikethrough-
+
+# Subscript
+
+This is H<sub>2</sub>0
+
+# Superscript
