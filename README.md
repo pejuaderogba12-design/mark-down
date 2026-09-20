@@ -72,3 +72,10 @@ This is x<sup>2</sup> + y<sup>3</sup>
 # Bold and nested italic
 
 **This text is _extremely_ important.**
+
+# Creating tables
+
+| First header | Second Header |
+|--------------|---------------|
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
