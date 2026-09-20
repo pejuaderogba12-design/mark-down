@@ -85,3 +85,9 @@ This is x<sup>2</sup> + y<sup>3</sup>
 | --- | --- |
 | Git status | List all new all modified files |
 | Git diff | Show file differences that haven't been staged |
+
+# Task List
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
