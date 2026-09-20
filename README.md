@@ -94,8 +94,11 @@ This is x<sup>2</sup> + y<sup>3</sup>
 
 # Footnote [^1]
 
+Here is a simple footnote[^1].
+A footnote can also have multiple lines[^2].
+
 [^1]: My reference.
-[^2]: Add line breaks within a foot note, add two spaces to the end of the line.
+[^2]: Add line breaks within a footnote, add two spaces to the end of the line.
 This is the second line.
 
 # Alert
