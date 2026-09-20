@@ -22,7 +22,7 @@ Markdown Learning Repository:  Welcome to the Markdown Learning Repository!   Th
 
 ---
 
-## 🛠️ How to Use
+## 🛠️ How To Use
 1. Clone this repository:
    ```bash
    git clone https://github.com/YourUsername/markdown-students.git
@@ -73,7 +73,7 @@ This is x<sup>2</sup> + y<sup>3</sup>
 
 **This text is _extremely_ important.**
 
-# Creating tables
+# Creating Tables
 
 | First header | Second Header |
 |--------------|---------------|
@@ -98,7 +98,7 @@ Here is a simple footnote[^1].
 A footnote can also have multiple lines[^2].
 
 [^1]: My reference.
-[^2]: Add line breaks within a footnote, add two spaces to the end of the line.
+[^2]: Add line breaks within a footnote; add two spaces to the end of the line.
 This is the second line.
 
 # Alert
@@ -107,7 +107,7 @@ This is the second line.
 > Useful information that users should know, even when skimming content.
 
 >  [!TIP]
-> Helpful advice for doing things better all more easily.
+> Helpful advice for doing things better and more easily.
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
