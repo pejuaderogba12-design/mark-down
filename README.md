@@ -79,3 +79,9 @@ This is x<sup>2</sup> + y<sup>3</sup>
 |--------------|---------------|
 | Content Cell | Content Cell  |
 | Content Cell | Content Cell  |
+
+
+| Command | Description |
+| --- | --- |
+| Git status | List all new all modified files |
+| Git diff | Show file differences that haven't been staged |
